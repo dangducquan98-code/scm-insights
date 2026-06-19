@@ -30,6 +30,7 @@ enableCodeCopy = true
   showTableOfContents = false
   showTaxonomies = true
   showWordCount = false
+  showHero = true
   sharingLinks = ["x-twitter", "linkedin", "facebook"]
 
 [list]
