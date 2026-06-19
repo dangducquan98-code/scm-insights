@@ -2,7 +2,7 @@
 title: "Tại sao dự án ERP thất bại — 5 lý do từ chiến hào"
 date: 2026-06-19T09:00:00+07:00
 draft: false
-feature: "/images/posts/tai-sao-du-an-erp-that-bai.jpg"
+featureimage: "/images/posts/tai-sao-du-an-erp-that-bai.jpg"
 tags: ["ERP", "thất bại", "bài học"]
 ---
 

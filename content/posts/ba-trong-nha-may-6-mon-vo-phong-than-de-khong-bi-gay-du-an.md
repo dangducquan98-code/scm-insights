@@ -1,6 +1,6 @@
 ---
 title: "BA TRONG NHÀ MÁY: 6 \"MÓN VÕ\" PHÒNG THÂN ĐỂ KHÔNG BỊ \"GÃY\" DỰ ÁN"
-feature: "/images/posts/ba-trong-nha-may-6-mon-vo-phong-than-de-khong-bi-gay-du-an.jpg"
+featureimage: "/images/posts/ba-trong-nha-may-6-mon-vo-phong-than-de-khong-bi-gay-du-an.jpg"
 date: 2025-12-11T09:00:00+07:00
 tags: [BusinessAnalyst, BABOK, ChuyenDoiSo, ERP, TuDuyLamNghe, DangDucQuan]
 ---

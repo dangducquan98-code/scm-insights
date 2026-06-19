@@ -1,6 +1,6 @@
 ---
 title: "3 cái bẫy cấu hình IFS Cloud Procurement khiến team mua hàng ngập trong việc tay"
-feature: "/images/posts/ifs-cloud-procurement-pitfalls.jpg"
+featureimage: "/images/posts/ifs-cloud-procurement-pitfalls.jpg"
 date: 2026-06-19T09:00:00+07:00
 draft: false
 tags: ["IFS Cloud", "Procurement", "ERP", "cấu hình"]

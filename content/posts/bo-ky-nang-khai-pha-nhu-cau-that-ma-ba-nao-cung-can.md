@@ -1,6 +1,6 @@
 ---
 title: "BỘ KỸ NĂNG KHAI PHÁ \"NHU CẦU THẬT\" MÀ BA NÀO CŨNG CẦN!"
-feature: "/images/posts/bo-ky-nang-khai-pha-nhu-cau-that-ma-ba-nao-cung-can.jpg"
+featureimage: "/images/posts/bo-ky-nang-khai-pha-nhu-cau-that-ma-ba-nao-cung-can.jpg"
 date: 2025-12-15T09:00:00+07:00
 tags: [BusinessAnalyst, ChuyenDoiSo, SanXuat, ERP, RequirementElicitation, QuanLamBA]
 ---
