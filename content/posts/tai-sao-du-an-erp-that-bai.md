@@ -13,6 +13,8 @@ Mình từng ngồi trong một cuộc họp "rút kinh nghiệm" dự án ERP k
 
 Không phải lần đầu mình thấy cảnh này. Dưới đây là 5 lý do mình thấy lặp đi lặp lại.
 
+![5 lý do ERP thất bại](/images/posts/erp-failure-infographic.jpg)
+
 🏭 **1. Bắt đầu từ phần mềm, không phải từ vấn đề**
 
 Nghe quen không: sếp đi hội thảo về, ký hợp đồng với vendor ERP xong mới gọi BA vào. "Giờ em đi khảo sát requirement đi."
@@ -44,8 +46,18 @@ Dữ liệu thật bẩn hơn mình tưởng rất nhiều. Mã hàng nào cũng
 Mình hay hỏi khách hàng trước dự án: "6 tháng sau go-live, anh muốn thấy điều gì khác?" Câu trả lời thường là im lặng. Không ai nghĩ đến chuyện đó. Rồi 6 tháng sau, họ nói "ERP chẳng cải thiện được gì" — trong khi chưa từng định nghĩa "cải thiện" là cái gì.
 
 ---
-
+ 
 Năm cái trên không phải lỗi của phần mềm. Là lỗi của cách mình làm dự án.
+
+{{< compare title="5 lý do ERP thất bại — Tổng kết" >}}
+| # | Vấn đề | Hậu quả | Cách tránh |
+|---|--------|---------|------------|
+| 1 | Chọn phần mềm trước, khảo sát sau | Custom module không phù hợp | Requirement → chọn ERP, không ngược lại |
+| 2 | Copy quy trình cũ nguyên xi | ERP thành "Excel màu mè" | Chuẩn hoá + cắt bỏ trước khi số hoá |
+| 3 | Sponsor vắng mặt | Trì hoãn, sai hướng | Sponsor phải có mặt ở steering committee |
+| 4 | Test bằng dữ liệu giả | Sập hệ thống khi go-live | Dành 2 tuần làm sạch data thật, test UAT bằng data thật |
+| 5 | Không có metrics thành công | Không biết dự án có hiệu quả không | Định nghĩa metrics trước, đo 6 tháng sau go-live |
+{{< /compare >}}
 
 Hỏi thật: dự án ERP của bạn, cái nào trong 5 cái trên đang âm thầm giết nó? 👇
 
