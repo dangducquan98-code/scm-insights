@@ -5,6 +5,7 @@ autoSwitchAppearance = true
 logo = "images/avatar.jpg"
 disableTextInHeader = false
 description = "Blog chia sẻ kiến thức thực chiến về ERP, IFS Cloud và Business Analysis từ góc nhìn của một BA trong lĩnh vực sản xuất."
+defaultSocialImage = "images/avatar.jpg"
 
 enableSearch = true
 enableCodeCopy = true
