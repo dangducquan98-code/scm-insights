@@ -1,0 +1,62 @@
+/* Quan BA's Notebook — Custom Styles */
+
+/* Better typography */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+.post-content {
+    font-size: 1.05rem;
+    line-height: 1.8;
+}
+
+/* Nicer cover images */
+.post-content img[src*="/images/posts/"] {
+    border-radius: 8px;
+}
+
+/* Improve headings */
+.post-content h2 {
+    margin-top: 2em;
+    padding-bottom: 0.3em;
+    border-bottom: 2px solid var(--border);
+}
+
+/* Homepage info box */
+.home-info {
+    padding: 2rem;
+    border-radius: 12px;
+    background: var(--entry);
+}
+
+/* Better entry cards on list pages */
+.first-entry .entry-header h2 {
+    font-size: 1.5rem;
+}
+
+.entry-cover img {
+    border-radius: 8px;
+    transition: transform 0.2s;
+}
+
+.entry-cover img:hover {
+    transform: scale(1.01);
+}
+
+/* Social icons bigger */
+.social-icons a {
+    padding: 6px;
+}
+
+/* Profile/home image rounded */
+.home-info img,
+.profile img {
+    border-radius: 50%;
+}
+
+/* Tag styling */
+.post-tags a {
+    background: var(--tertiary);
+    padding: 3px 10px;
+    border-radius: 4px;
+}

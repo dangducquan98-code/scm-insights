@@ -1,5 +1,9 @@
 ---
 title: "Thế túm lại Business Analyst là gì nhuỷ?"
+cover:
+    image: "/images/posts/the-tum-lai-business-analyst-la-gi-nhuy.jpg"
+    alt: ""
+    relative: false
 date: 2025-12-01T09:00:00+07:00
 tags: [BusinessAnalyst, ChiemNghiemNghe, DangDucQuan, GocNhin, QuanLamBA]
 ---

@@ -5,14 +5,21 @@ theme: "PaperMod"
 
 params:
   author: "Đức Quân"
-  description: "Real-world ERP implementation & Supply Chain Management insights from an IFS Cloud consultant."
-  DateFormat: "January 2, 2006"
+  description: "ERP · IFS Cloud · Business Analysis · Chuyện nghề BA trong lĩnh vực sản xuất"
+  DateFormat: "02/01/2006"
   
-  profileMode:
-    enabled: true
-    title: "Quan BA's Notebook"
-    subtitle: "ERP · IFS Cloud · Business Analysis · Personal Notes"
-    imageUrl: "/images/avatar.jpg"
+  defaultTheme: "dark"
+  disableThemeToggle: false
+  
+  homeInfoParams:
+    Title: "Quân làm BA"
+    Content: |
+      Chào bạn. Mình là **Đức Quân** — Business Analyst trong lĩnh vực **sản xuất**. 
+      
+      Blog này là nơi mình chia sẻ chuyện nghề: **ERP, IFS Cloud, Supply Chain**, 
+      và những bài học thực tế từ nhà máy. Không lý thuyết suông.
+      
+      [X (Twitter)](https://x.com/quannkiu) · [LinkedIn](https://www.linkedin.com/in/quandd/) · [Facebook](https://www.facebook.com/kiu98/)
 
   socialIcons:
     - name: "x"
@@ -22,21 +29,27 @@ params:
     - name: "facebook"
       url: "https://www.facebook.com/kiu98/"
 
+  cover:
+    linkFullImages: true
+
   ShowReadingTime: true
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
+  ShowShareButtons: true
+  ShowCodeCopyButtons: false
+  ShowToc: true
 
 menu:
   main:
     - identifier: "posts"
-      name: "Posts"
+      name: "Bài viết"
       url: "/posts/"
       weight: 10
     - identifier: "tags"
-      name: "Tags"
+      name: "Chủ đề"
       url: "/tags/"
       weight: 20
     - identifier: "about"
-      name: "About"
+      name: "Về mình"
       url: "/about/"
       weight: 30

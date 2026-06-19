@@ -1,5 +1,9 @@
 ---
 title: "VÀI KINH NGHIỆM VỀ CHUYỆN DEAL LƯƠNG CHO \"BA TAY NGANG\""
+cover:
+    image: "/images/posts/vai-kinh-nghiem-ve-chuyen-deal-luong-cho-ba-tay-ngang.jpg"
+    alt: ""
+    relative: false
 date: 2025-12-11T09:00:00+07:00
 tags: [BusinessAnalyst, ChuyenNganhBA, DealLuong, GocNhinThucChien]
 ---

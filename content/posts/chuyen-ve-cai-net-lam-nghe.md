@@ -1,5 +1,9 @@
 ---
 title: "CHUYỆN VỀ \"CÁI NẾT\" LÀM NGHỀ"
+cover:
+    image: "/images/posts/chuyen-ve-cai-net-lam-nghe.jpg"
+    alt: ""
+    relative: false
 date: 2025-12-01T09:00:00+07:00
 tags: [BusinessAnalyst, ChuyenNgheBA, TamSu, QuanLamBA, ThaiDoLamViec]
 ---
