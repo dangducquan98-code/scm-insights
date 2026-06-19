@@ -1,24 +1,30 @@
 {{ $jsHome := resources.Get "js/home.js" | resources.Minify | resources.Fingerprint (.Site.Params.fingerprintAlgorithm | default "sha512") }}
-<div id="background" style="display:none">
+<div id="background">
   {{ partial "home/background.html" . }}
 </div>
-<div id="hero" style="display:none">
+<div id="hero" >
   {{ partial "home/hero.html" . }}
 </div>
-<div id="profile">
+<div id="profile" >
   {{ partial "home/profile.html" . }}
 </div>
-{{ with .Content }}
-<section class="max-w-7xl mx-auto px-4 mt-8">
-  {{ . }}
-</section>
-{{ end }}
-<div id="card" style="display:none">
+<div id="card" >
   {{ partial "home/card.html" . }}
 </div>
-<div id="page" style="display:none">
+<div id="page" >
   {{ partial "home/page.html" . }}
 </div>
+<section class="max-w-7xl mx-auto px-4">
+  {{ partial "sponsors.html" . }}
+</section>
+
+<section class="max-w-7xl mx-auto px-4">
+  {{ partial "contributors.html" . }}
+</section>
+
+<section>
+  {{ partial "recent-articles-demo.html" . }}
+</section>
 <script
   defer
   type="text/javascript"
