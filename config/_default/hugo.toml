@@ -1,4 +1,4 @@
-theme = "congo"
+theme = "blowfish"
 baseURL = "https://quandangba.netlify.app/"
 defaultContentLanguage = "vi"
 
