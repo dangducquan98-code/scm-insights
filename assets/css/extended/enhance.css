@@ -1,0 +1,44 @@
+/* ===== Quan BA's Notebook - Style Enhancements ===== */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* Better typography */
+.post-content {
+    font-size: 1.07rem;
+    line-height: 1.8;
+}
+h2 { margin-top: 1.8em; }
+
+/* Softer cards */
+.post-entry {
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    padding: 1.4rem;
+    margin-bottom: .9rem;
+    transition: box-shadow .2s;
+}
+.post-entry:hover { box-shadow: 0 2px 16px rgba(0,0,0,.06); }
+
+.first-entry { margin-bottom: 1.4rem; }
+.first-entry .entry-header h2 { font-size: 1.3rem; }
+
+/* Softer home info */
+.home-info {
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    padding: 2rem;
+}
+
+/* Cover images */
+.entry-cover img { border-radius: 8px; }
+
+/* Tags */
+.post-tags a {
+    padding: 3px 10px;
+    border-radius: 6px;
+    font-size: .82rem;
+}
