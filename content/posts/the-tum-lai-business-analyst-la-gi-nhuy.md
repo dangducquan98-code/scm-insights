@@ -50,4 +50,3 @@ Biến cái chưa tốt thành cái tốt. Biến cái tốt rồi thành cái t
 
 Anh em làm BA thấy mình nói có đúng không?
 
-#BusinessAnalyst #ChiemNghiemNghe #DangDucQuan #GocNhin #QuanLamBA

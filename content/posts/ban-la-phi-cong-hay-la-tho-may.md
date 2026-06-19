@@ -19,7 +19,7 @@ Thứ duy nhất ổng nhìn… là cái MÀN HÌNH ĐIỀU KHIỂN (Dashboard).
 
 …
 
-Nhìn lại nhiều anh chủ nhà máy (khách hàng của tôi). Nhiều khi thấy các anh khổ quá. Mang tiếng là Tổng Giám đốc (Cơ trưởng), nhưng cứ phải chạy xuống xưởng (làm thợ máy) để xem "Hàng làm đến đâu rồi?", "Máy này sao lại hỏng?".
+Nhìn lại nhiều anh chủ nhà máy (khách hàng của mình). Nhiều khi thấy các anh khổ quá. Mang tiếng là Tổng Giám đốc (Cơ trưởng), nhưng cứ phải chạy xuống xưởng (làm thợ máy) để xem "Hàng làm đến đâu rồi?", "Máy này sao lại hỏng?".
 
 Tại sao? Tại vì không có dữ liệu. Hoặc có thì là dữ liệu "chết" từ tuần trước. Làm sao dám ngồi phòng máy lạnh mà điều hành khi dưới xưởng là một cái "hộp đen" mù mịt?
 
@@ -29,4 +29,3 @@ Chuyển đổi số trong sản xuất, nói cho vuông, là quá trình xây d
 
 Bay lên nào! ✈️
 
-#DigitalTransformation #Leadership #CEO #Dashboard #MES #ERP #ChuyenDoiSo

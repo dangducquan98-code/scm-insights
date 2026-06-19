@@ -99,4 +99,3 @@ Hãy chuyển mình từ người hỏi *"Cần gì?"* thành người tư vấn
 
 ---
 
-*#BusinessAnalyst #ChuyenDoiSo #SanXuat #ERP #RequirementElicitation #QuanLamBA*
