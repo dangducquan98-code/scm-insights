@@ -38,7 +38,7 @@ params:
   ShowShareButtons: true
   ShareButtons: ["x", "linkedin", "facebook"]
   ShowCodeCopyButtons: false
-  ShowToc: true
+  ShowToc: false
 
 menu:
   main:
