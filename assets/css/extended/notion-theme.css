@@ -1,144 +1,171 @@
 /* ===== Notion-inspired Design for Quan BA's Notebook ===== */
+
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
-/* Notion Design Tokens */
 :root {
-    --nb-bg: #ffffff;
-    --nb-warm: #f6f5f4;
-    --nb-text: rgba(0,0,0,0.92);
-    --nb-secondary: #615d59;
-    --nb-blue: #0075de;
-    --nb-border: rgba(0,0,0,0.08);
-    --nb-card-shadow: 0px 2px 12px rgba(0,0,0,0.04);
-    --nb-radius: 12px;
+    --notion-bg: #ffffff;
+    --notion-warm-bg: #f6f5f4;
+    --notion-text: rgba(0,0,0,0.92);
+    --notion-secondary: #615d59;
+    --notion-muted: #a39e98;
+    --notion-blue: #0075de;
+    --notion-border: rgba(0,0,0,0.08);
+    --notion-card-shadow: 0px 1px 3px rgba(0,0,0,0.04), 0px 3px 7px rgba(0,0,0,0.02);
+    --notion-radius-sm: 4px;
+    --notion-radius: 8px;
+    --notion-radius-lg: 12px;
 }
 
-/* Map to PaperMod */
+/* Override theme vars */
 :root {
-    --theme: var(--nb-bg);
-    --entry: var(--nb-bg);
-    --primary: var(--nb-text);
-    --secondary: var(--nb-secondary);
-    --tertiary: var(--nb-warm);
-    --content: var(--nb-text);
-    --code-bg: var(--nb-warm);
-    --border: var(--nb-border);
+    --theme: var(--notion-bg);
+    --entry: var(--notion-bg);
+    --primary: var(--notion-text);
+    --secondary: var(--notion-secondary);
+    --tertiary: var(--notion-warm-bg);
+    --content: var(--notion-text);
+    --code-bg: var(--notion-warm-bg);
+    --border: var(--notion-border);
+}
+
+.dark {
+    --notion-bg: #191919;
+    --notion-warm-bg: #252525;
+    --notion-text: rgba(255,255,255,0.9);
+    --notion-secondary: #9b9793;
+    --notion-muted: #6b6661;
+    --notion-blue: #3291ff;
+    --notion-border: rgba(255,255,255,0.08);
+
+    --theme: var(--notion-bg);
+    --entry: var(--notion-bg);
+    --primary: var(--notion-text);
+    --secondary: var(--notion-secondary);
+    --tertiary: var(--notion-warm-bg);
+    --content: var(--notion-text);
+    --code-bg: var(--notion-warm-bg);
+    --border: var(--notion-border);
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    background: var(--notion-bg);
+    color: var(--notion-text);
 }
 
 /* Typography */
-body {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-    -webkit-font-smoothing: antialiased;
-}
+h1 { font-weight: 700; letter-spacing: -0.03em; }
+h2 { font-weight: 700; letter-spacing: -0.02em; margin-top: 2em; }
+h3 { font-weight: 600; letter-spacing: -0.01em; }
 
-.post-content {
-    font-size: 1.08rem;
-    line-height: 1.75;
-}
+.post-content { font-size: 1.05rem; line-height: 1.7; }
 .post-content p { margin: 1.2em 0; }
 
-h1 { font-weight: 700; letter-spacing: -0.025em; }
-h2 { font-weight: 700; letter-spacing: -0.015em; margin-top: 1.8em; }
-h3 { font-weight: 600; }
-
 /* Header */
-.header { border-bottom: 1px solid var(--nb-border); background: var(--nb-warm); }
-.header nav { padding: 8px 0; }
-.logo a { font-weight: 700; }
-.menu a { font-weight: 500; }
+.header { background: var(--notion-warm-bg); border-bottom: 1px solid var(--notion-border); }
+.logo a { font-weight: 700; letter-spacing: -0.02em; }
+.menu a { font-weight: 500; font-size: 0.94rem; }
 
-/* Posts list cards */
+/* Homepage */
+.home-info {
+    background: var(--notion-bg);
+    border: 1px solid var(--notion-border);
+    border-radius: var(--notion-radius-lg);
+    box-shadow: var(--notion-card-shadow);
+    padding: 2.5rem;
+    margin-bottom: 2em;
+}
+
+/* Post entries */
 .post-entry {
-    background: var(--nb-bg);
-    border: 1px solid var(--nb-border);
-    border-radius: var(--nb-radius);
-    box-shadow: var(--nb-card-shadow);
+    background: var(--notion-bg);
+    border: 1px solid var(--notion-border);
+    border-radius: var(--notion-radius-lg);
+    box-shadow: var(--notion-card-shadow);
     padding: 1.5rem;
     margin-bottom: 1rem;
     transition: box-shadow 0.2s;
 }
-.post-entry:hover { box-shadow: 0px 4px 20px rgba(0,0,0,0.08); }
-
+.post-entry:hover { box-shadow: 0px 4px 14px rgba(0,0,0,0.06); }
 .first-entry { margin-bottom: 1.5rem; }
-.first-entry .entry-header h2 { font-size: 1.4rem; }
 
-/* Homepage info */
-.home-info {
-    background: var(--nb-bg);
-    border: 1px solid var(--nb-border);
-    border-radius: var(--nb-radius);
-    box-shadow: var(--nb-card-shadow);
-    padding: 2.5rem;
+.entry-header h2 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
 }
 
 /* Cover images */
-.entry-cover img { border-radius: var(--nb-radius); border: 1px solid var(--nb-border); }
+.entry-cover img, .post-content img:not(.sc-*) {
+    border-radius: var(--notion-radius-lg);
+    border: 1px solid var(--notion-border);
+}
 
-/* Links */
-a { color: var(--nb-blue); }
+/* Buttons & Links */
+a { color: var(--notion-blue); text-decoration: none; }
 a:hover { text-decoration: underline; text-underline-offset: 2px; }
 
-/* Subscribe */
+/* Subscribe box */
 .subscribe-box {
-    background: var(--nb-warm);
-    border: 1px solid var(--nb-border);
-    border-radius: var(--nb-radius);
+    background: var(--notion-warm-bg);
+    border: 1px solid var(--notion-border);
+    border-radius: var(--notion-radius-lg);
     padding: 1.5rem 2rem;
 }
 .subscribe-btn {
-    background: var(--nb-blue);
+    background: var(--notion-blue);
     padding: 8px 20px;
-    border-radius: 6px;
+    border-radius: var(--notion-radius-sm);
     font-weight: 600;
-    transition: opacity 0.15s;
+    font-size: 0.94rem;
+    transition: background 0.15s;
 }
-.subscribe-btn:hover { opacity: 0.9; }
+.subscribe-btn:hover { background: #005bab; }
 
-/* Shortcodes */
+/* Shortcodes — Notion-style */
 .sc-box {
-    border-radius: 8px;
-    border: 1px solid var(--nb-border);
+    border-radius: var(--notion-radius);
+    border: 1px solid var(--notion-border);
+    border-left-width: 3px;
 }
-.sc-compare th { background: var(--nb-warm); color: var(--nb-text); font-weight: 600; }
-.sc-cta { background: var(--nb-warm); border: 1px solid var(--nb-border); color: var(--nb-text); }
-.sc-cta a { color: var(--nb-blue); }
+.sc-compare table { font-size: 0.95rem; }
+.sc-compare th { background: var(--notion-warm-bg); color: var(--notion-text); font-weight: 600; }
+.sc-compare td { border-bottom: 1px solid var(--notion-border); }
+
+.sc-steps h3::before { background: var(--notion-blue); }
+
+.sc-cta {
+    background: var(--notion-warm-bg);
+    border: 1px solid var(--notion-border);
+    color: var(--notion-text);
+}
+.sc-cta a { color: var(--notion-blue); }
+
+/* Footer */
+.footer {
+    background: var(--notion-warm-bg);
+    border-top: 1px solid var(--notion-border);
+    padding: 2rem 0;
+    color: var(--notion-secondary);
+}
 
 /* Tags */
 .post-tags a {
     background: rgba(0,117,222,0.08);
-    color: var(--nb-blue);
-    padding: 3px 12px;
+    color: var(--notion-blue);
+    padding: 3px 10px;
     border-radius: 9999px;
     font-weight: 500;
-    font-size: 0.85rem;
 }
 
 /* Blockquote */
 .post-content blockquote {
-    border-left: 3px solid var(--nb-blue);
-    background: var(--nb-warm);
-    border-radius: 0 8px 8px 0;
+    border-left: 3px solid var(--notion-blue);
+    background: var(--notion-warm-bg);
+    border-radius: 0 var(--notion-radius) var(--notion-radius) 0;
 }
 
-/* Footer */
-.footer { background: var(--nb-warm); border-top: 1px solid var(--nb-border); }
-
-/* Dark mode */
-[data-theme="dark"] {
-    --nb-bg: #1a1a1a;
-    --nb-warm: #252525;
-    --nb-text: rgba(255,255,255,0.9);
-    --nb-secondary: #999590;
-    --nb-blue: #3291ff;
-    --nb-border: rgba(255,255,255,0.08);
-    --nb-card-shadow: 0px 2px 12px rgba(0,0,0,0.2);
-
-    --theme: var(--nb-bg);
-    --entry: var(--nb-bg);
-    --primary: var(--nb-text);
-    --secondary: var(--nb-secondary);
-    --tertiary: var(--nb-warm);
-    --content: var(--nb-text);
-    --code-bg: var(--nb-warm);
-    --border: var(--nb-border);
-}
+/* Share buttons */
+.share-buttons svg { opacity: 0.6; }
+.share-buttons svg:hover { opacity: 1; }
