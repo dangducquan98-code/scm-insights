@@ -3,7 +3,9 @@ title: "Tại sao dự án ERP thất bại — 5 lý do từ chiến hào"
 date: 2026-06-19T09:00:00+07:00
 draft: false
 featureimage: "images/posts/tai-sao-du-an-erp-that-bai.jpg"
+featureAlt: "Infographic 5 lý do dự án ERP thất bại - bài học từ chiến hào"
 tags: ["ERP", "thất bại", "bài học"]
+description: "5 lý do dự án ERP thất bại từ thực tế triển khai: chọn phần mềm trước khi khảo sát, copy quy trình cũ, sponsor vắng mặt, test dữ liệu giả, không có metrics thành công."
 ---
 
 Mình từng ngồi trong một cuộc họp "rút kinh nghiệm" dự án ERP kéo dài 4 tiếng. Phòng họp kín, điều hoà 16 độ mà mặt ai cũng đỏ bừng. Dự án ngốn 2 năm, 15 tỷ — go-live xong thì team mua hàng vẫn dùng Excel để tracking đơn hàng "cho chắc".

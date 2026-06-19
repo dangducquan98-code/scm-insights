@@ -1,8 +1,10 @@
 ---
 title: "VÀI KINH NGHIỆM VỀ CHUYỆN DEAL LƯƠNG CHO \"BA TAY NGANG\""
 featureimage: "images/posts/vai-kinh-nghiem-ve-chuyen-deal-luong-cho-ba-tay-ngang.jpg"
+featureAlt: "Kinh nghiệm deal lương cho BA tay ngang - tư duy đàm phán"
 date: 2025-12-11T09:00:00+07:00
 tags: [BusinessAnalyst, ChuyenNganhBA, DealLuong, GocNhinThucChien]
+description: "Kinh nghiệm deal lương cho BA tay ngang: tư duy 'trao đổi giá trị', dùng số liệu để đàm phán, và cách định vị bản thân khi chưa có nhiều kinh nghiệm."
 ---
 
 # Vài Kinh Nghiệm Về Chuyện Deal Lương Cho "BA Tay Ngang"

@@ -1,8 +1,10 @@
 ---
 title: "BA TRONG NHÀ MÁY: 6 \"MÓN VÕ\" PHÒNG THÂN ĐỂ KHÔNG BỊ \"GÃY\" DỰ ÁN"
 featureimage: "images/posts/ba-trong-nha-may-6-mon-vo-phong-than-de-khong-bi-gay-du-an.jpg"
+featureAlt: "BA trong nhà máy - 6 món võ BABOK phòng thân cho dự án ERP"
 date: 2025-12-11T09:00:00+07:00
 tags: [BusinessAnalyst, BABOK, ChuyenDoiSo, ERP, TuDuyLamNghe, DangDucQuan]
+description: "BA trong nhà máy sản xuất: 6 vùng kiến thức BABOK 'Việt hóa' thành 6 món võ phòng thân. Từ thất bại thực tế đến framework giúp BA trụ vững trước áp lực dự án."
 ---
 
 # BA TRONG NHÀ MÁY: 6 "MÓN VÕ" PHÒNG THÂN ĐỂ KHÔNG BỊ "GÃY" DỰ ÁN

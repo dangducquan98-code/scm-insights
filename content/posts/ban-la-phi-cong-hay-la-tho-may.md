@@ -1,8 +1,10 @@
 ---
 title: "BẠN LÀ \"PHI CÔNG\" HAY LÀ \"THỢ MÁY\"?"
 featureimage: "images/posts/ban-la-phi-cong-hay-la-tho-may.jpg"
+featureAlt: "Bạn là phi công hay thợ máy - tư duy BA trong chuyển đổi số"
 date: 2025-12-02T09:00:00+07:00
 tags: [DigitalTransformation, Leadership, CEO, Dashboard, MES, ERP, ChuyenDoiSo]
+description: "Bạn là 'phi công' hay 'thợ máy'? Ẩn dụ về vai trò BA trong chuyển đổi số — đừng chỉ chăm chăm vào chi tiết, hãy nhìn bức tranh lớn như phi công nhìn dashboard."
 ---
 
 ## BẠN LÀ "PHI CÔNG" HAY LÀ "THỢ MÁY"?

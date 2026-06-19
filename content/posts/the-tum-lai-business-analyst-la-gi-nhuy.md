@@ -1,8 +1,10 @@
 ---
 title: "Thế túm lại Business Analyst là gì nhuỷ?"
 featureimage: "images/posts/the-tum-lai-business-analyst-la-gi-nhuy.jpg"
+featureAlt: "Business Analyst là gì - góc nhìn thực tế từ người trong nghề"
 date: 2025-12-01T09:00:00+07:00
 tags: [BusinessAnalyst, ChiemNghiemNghe, DangDucQuan, GocNhin, QuanLamBA]
+description: "Business Analyst là gì? Không chỉ là 'cầu nối' dịch tiếng người sang máy. Góc nhìn thực tế từ một BA đã trải qua đủ cay đắng của nghề."
 ---
 
 ## Thế túm lại Business Analyst là gì nhuỷ?
