@@ -1,37 +1,18 @@
-colorScheme = "congo"
-defaultAppearance = "dark"
-autoSwitchAppearance = true
+[colorScheme]
+  default = "dark"
+  toggle = true
 
-enableSearch = true
-enableCodeCopy = true
-
-[header]
-  layout = "basic"
-  showTitle = true
-
-[footer]
-  showCopyright = true
-  showThemeAttribution = false
-  showAppearanceSwitcher = true
-  showScrollToTop = true
-
-[homepage]
-  layout = "profile"
-  showRecent = true
-  recentLimit = 5
+[sidebar]
+  compact = false
+  avatar = "/images/avatar.jpg"
 
 [article]
   showDate = true
-  showAuthor = true
-  showBreadcrumbs = true
   showReadingTime = true
-  showTableOfContents = false
-  showTaxonomies = true
-  showWordCount = false
-  sharingLinks = ["x-twitter", "linkedin", "facebook"]
 
-[list]
-  showBreadcrumbs = true
-  showSummary = true
-  showTableOfContents = false
-  groupByYear = true
+[footer]
+  since = 2026
+  customText = "Đức Quân · ERP/SCM Consultant"
+
+mainSections = ["posts"]
+rssFullContent = true
