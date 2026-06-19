@@ -17,8 +17,10 @@ params:
   socialIcons:
     - name: "x"
       url: "https://x.com/quannkiu"
-    - name: "github"
-      url: "https://github.com/quandang"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/quandd/"
+    - name: "facebook"
+      url: "https://www.facebook.com/kiu98/"
 
   ShowReadingTime: true
   ShowBreadCrumbs: true

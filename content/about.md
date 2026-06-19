@@ -22,4 +22,6 @@ Business Analyst với kinh nghiệm triển khai **IFS Cloud** trong các mản
 
 **Kết nối:**
 - X (Twitter): [@quannkiu](https://x.com/quannkiu)
+- LinkedIn: [quandd](https://www.linkedin.com/in/quandd/)
+- Facebook: [kiu98](https://www.facebook.com/kiu98/)
 - Sống ở Hà Nội, Việt Nam 🇻🇳
