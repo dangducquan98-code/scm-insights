@@ -27,7 +27,7 @@ enableCodeCopy = true
   showScrollToTop = true
 
 [homepage]
-  layout = "profile"
+  layout = "custom"
   homepageImage = "/img/background.svg"
   showRecent = true
   showRecentItems = 5
