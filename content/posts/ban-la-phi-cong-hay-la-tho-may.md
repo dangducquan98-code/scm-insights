@@ -1,6 +1,6 @@
 ---
 title: "BẠN LÀ \"PHI CÔNG\" HAY LÀ \"THỢ MÁY\"?"
-featureimage: "/images/posts/ban-la-phi-cong-hay-la-tho-may.jpg"
+featureimage: "images/posts/ban-la-phi-cong-hay-la-tho-may.jpg"
 date: 2025-12-02T09:00:00+07:00
 tags: [DigitalTransformation, Leadership, CEO, Dashboard, MES, ERP, ChuyenDoiSo]
 ---
