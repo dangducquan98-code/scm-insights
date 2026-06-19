@@ -2,6 +2,8 @@ colorScheme = "ocean"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 
+logo = "images/avatar.jpg"
+
 enableSearch = true
 enableCodeCopy = true
 
@@ -54,3 +56,4 @@ enableCodeCopy = true
   showBreadcrumbs = true
   showSummary = true
   groupByYear = true
+  cardView = true
