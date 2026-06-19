@@ -1,4 +1,4 @@
-theme = "hugo-theme-stack"
+theme = "blowfish"
 baseURL = "https://quandangba.netlify.app/"
 defaultContentLanguage = "vi"
 

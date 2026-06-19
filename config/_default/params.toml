@@ -1,18 +1,38 @@
-[colorScheme]
-  default = "dark"
-  toggle = true
+colorScheme = "blowfish"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
 
-[sidebar]
-  compact = false
-  avatar = "/images/avatar.jpg"
+enableSearch = true
+enableCodeCopy = true
+
+[header]
+  layout = "basic"
+  showTitle = true
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "profile"
+  showRecent = true
+  showRecentItems = 5
+  showMoreLink = true
+  showMoreLinkDest = "/posts"
 
 [article]
   showDate = true
+  showAuthor = true
+  showBreadcrumbs = true
   showReadingTime = true
+  showTableOfContents = false
+  showTaxonomies = true
+  showWordCount = false
+  sharingLinks = ["x-twitter", "linkedin", "facebook"]
 
-[footer]
-  since = 2026
-  customText = "Đức Quân · ERP/SCM Consultant"
-
-mainSections = ["posts"]
-rssFullContent = true
+[list]
+  showBreadcrumbs = true
+  showSummary = true
+  groupByYear = true
