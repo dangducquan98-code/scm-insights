@@ -1,4 +1,4 @@
-colorScheme = "blowfish"
+colorScheme = "ocean"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 
@@ -32,6 +32,7 @@ enableCodeCopy = true
   showRecentItems = 5
   showMoreLink = true
   showMoreLinkDest = "/posts"
+  cardView = true
 
 [article]
   showDate = true
