@@ -8,3 +8,5 @@
     { linkedin = "https://www.linkedin.com/in/quandd/" },
     { facebook = "https://www.facebook.com/kiu98/" },
   ]
+
+logo = "images/avatar.jpg"
