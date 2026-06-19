@@ -1,0 +1,40 @@
+baseURL: "https://scminsights.netlify.app/"
+languageCode: "en-us"
+title: "SCM Insights by Đức Quân"
+theme: "PaperMod"
+
+params:
+  author: "Đức Quân"
+  description: "Real-world ERP implementation & Supply Chain Management insights from an IFS Cloud consultant."
+  DateFormat: "January 2, 2006"
+  
+  profileMode:
+    enabled: true
+    title: "SCM Insights"
+    subtitle: "ERP · IFS Cloud · Supply Chain · Business Analysis"
+    imageUrl: "https://pbs.twimg.com/profile_images/1723558740249714688/5-p9-Ray_normal.jpg"
+
+  socialIcons:
+    - name: "x"
+      url: "https://x.com/quannkiu"
+    - name: "github"
+      url: "https://github.com/quandang"
+
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+
+menu:
+  main:
+    - identifier: "posts"
+      name: "Posts"
+      url: "/posts/"
+      weight: 10
+    - identifier: "tags"
+      name: "Tags"
+      url: "/tags/"
+      weight: 20
+    - identifier: "about"
+      name: "About"
+      url: "/about/"
+      weight: 30
