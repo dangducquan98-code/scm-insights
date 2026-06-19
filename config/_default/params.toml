@@ -3,6 +3,7 @@ defaultAppearance = "dark"
 autoSwitchAppearance = true
 
 logo = "images/avatar.jpg"
+disableTextInHeader = false
 
 enableSearch = true
 enableCodeCopy = true
