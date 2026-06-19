@@ -1,23 +1,24 @@
 ---
-title: "Welcome to SCM Insights"
+title: "Chào mừng đến Quan BA's Notebook"
 date: 2026-06-19T09:00:00+07:00
 draft: false
-tags: ["ERP", "Supply Chain", "IFS Cloud"]
+tags: ["BA", "ERP", "IFS Cloud"]
 ---
 
-## Who Am I?
+## Tôi là ai?
 
-I'm Đức Quân — a Business Analyst specializing in ERP implementation and Supply Chain Management. I work with **IFS Cloud** across procurement, inventory, and manufacturing modules, and I also develop custom ERP solutions.
+Tôi là Đức Quân — Business Analyst chuyên về triển khai ERP và Quản lý Chuỗi Cung ứng. Tôi làm việc với **IFS Cloud** ở các module procurement, inventory, manufacturing, đồng thời tự phát triển các giải pháp ERP riêng.
 
-## What This Blog Covers
+## Blog này viết về gì?
 
-- **ERP Implementation** — real-world lessons from the trenches
-- **IFS Cloud** — deep dives into modules and configuration
-- **Supply Chain Strategy** — procurement, logistics, inventory optimization
-- **Business Analysis** — BABOK in practice, not theory
+- **Triển khai ERP** — những bài học thực tế từ chiến hào
+- **IFS Cloud** — deep-dive vào module và cấu hình
+- **Supply Chain** — procurement, logistics, tối ưu tồn kho
+- **Business Analysis** — BABOK trong thực tế, không lý thuyết suông
+- **Góc cá nhân** — đời consultant, suy nghĩ vẩn vơ, những ngày bình thường
 
-## Why I Write
+## Tại sao tôi viết?
 
-After years of consulting, I've seen the same mistakes repeat across companies. This blog is my way of sharing what works, what doesn't, and how to build supply chain systems that actually deliver value.
+Sau nhiều năm consulting, tôi thấy cùng một lỗi lặp đi lặp lại ở các công ty. Blog này là cách tôi chia sẻ những gì hiệu quả, những gì không, và cách xây dựng hệ thống thực sự tạo ra giá trị.
 
-New posts every week. Follow along.
+Không có lịch cố định. Khi nào có gì đáng viết thì viết.
