@@ -1,0 +1,13 @@
+theme = "congo"
+baseURL = "https://quandangba.netlify.app/"
+defaultContentLanguage = "vi"
+
+enableRobotsTXT = true
+summaryLength = 0
+buildFuture = true
+
+[pagination]
+  pagerSize = 10
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

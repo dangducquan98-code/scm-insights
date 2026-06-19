@@ -1,9 +1,6 @@
 ---
 title: "Chào mừng đến Quan BA's Notebook"
-cover:
-    image: "/images/posts/welcome.jpg"
-    alt: ""
-    relative: false
+feature: "/images/posts/welcome.jpg"
 date: 2026-06-19T09:00:00+07:00
 draft: false
 tags: ["BA", "ERP", "IFS Cloud"]

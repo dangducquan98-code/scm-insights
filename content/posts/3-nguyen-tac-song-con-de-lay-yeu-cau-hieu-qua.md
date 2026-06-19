@@ -1,9 +1,6 @@
 ---
 title: "3 NGUYÊN TẮC \"SỐNG CÒN\" ĐỂ LẤY YÊU CẦU HIỆU QUẢ"
-cover:
-    image: "/images/posts/3-nguyen-tac-song-con-de-lay-yeu-cau-hieu-qua.jpg"
-    alt: ""
-    relative: false
+feature: "/images/posts/3-nguyen-tac-song-con-de-lay-yeu-cau-hieu-qua.jpg"
 date: 2025-12-15T09:00:00+07:00
 tags: [BusinessAnalyst, KinhNghiemThucChien, LayYeuCau, RequirementElicitation, ChuyenDoiSo]
 ---

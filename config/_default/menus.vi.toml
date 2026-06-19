@@ -1,0 +1,14 @@
+[[main]]
+  name = "Bài viết"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Chủ đề"
+  pageRef = "tags"
+  weight = 20
+
+[[main]]
+  name = "Về mình"
+  pageRef = "about"
+  weight = 30
