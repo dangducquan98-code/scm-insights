@@ -5,6 +5,17 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
+[Author]
+  name = "Đức Quân"
+  image = "images/avatar.jpg"
+  headline = "ERP · IFS Cloud · Business Analysis"
+  bio = "Chuyện nghề BA trong lĩnh vực sản xuất. Viết cho mình, và cho cả những ai đang muốn dấn thân vào con đường này."
+  links = [
+    { x-twitter = "https://x.com/quannkiu" },
+    { linkedin = "https://www.linkedin.com/in/quandd/" },
+    { facebook = "https://www.facebook.com/kiu98/" },
+  ]
+
 [header]
   layout = "basic"
   showTitle = true
