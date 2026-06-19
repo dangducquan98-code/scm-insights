@@ -17,7 +17,7 @@ enableCodeCopy = true
   ]
 
 [header]
-  layout = "basic"
+  layout = "fixed"
   showTitle = true
 
 [footer]
@@ -28,11 +28,14 @@ enableCodeCopy = true
 
 [homepage]
   layout = "profile"
+  homepageImage = "/img/background.svg"
   showRecent = true
   showRecentItems = 5
   showMoreLink = true
   showMoreLinkDest = "/posts"
   cardView = true
+  cardViewScreenWidth = false
+  layoutBackgroundBlur = true
 
 [article]
   showDate = true
@@ -43,6 +46,8 @@ enableCodeCopy = true
   showTaxonomies = true
   showWordCount = false
   showHero = true
+  heroStyle = "background"
+  layoutBackgroundBlur = true
   sharingLinks = ["x-twitter", "linkedin", "facebook"]
 
 [list]
