@@ -1,0 +1,48 @@
+/* ===== Subscribe Box (Homepage) ===== */
+.subscribe-box {
+    margin: 2em 0;
+    padding: 20px 24px;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    background: var(--entry);
+}
+.subscribe-text {
+    flex: 1;
+    min-width: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+.subscribe-text strong { font-size: 1.05em; }
+.subscribe-text span { color: var(--secondary); font-size: 0.9em; }
+.subscribe-form {
+    display: flex;
+    gap: 8px;
+    flex: 1;
+    min-width: 260px;
+}
+.subscribe-form input[type="email"] {
+    flex: 1;
+    padding: 10px 14px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-size: 0.95em;
+    background: var(--theme);
+    color: var(--primary);
+}
+.subscribe-form button {
+    padding: 10px 18px;
+    border: none;
+    border-radius: 8px;
+    background: var(--primary);
+    color: var(--theme);
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 0.95em;
+    white-space: nowrap;
+}
+.subscribe-form button:hover { opacity: 0.85; }

@@ -1,16 +1,12 @@
-<div class="sc-cta" style="margin-top: 3em; border-radius: 12px;">
-<h3 style="color: #fff; margin-top: 0;">📬 Nhận bài mới qua email</h3>
-<p style="color: rgba(255,255,255,0.85); margin-bottom: 16px;">Mỗi tuần 1 bài về ERP, BA, Supply Chain — thẳng thắn, thực tế, không spam.</p>
-
-<form name="subscribe" method="POST" data-netlify="true" netlify-honeypot="bot-field" style="display: flex; gap: 8px; flex-wrap: wrap;">
-  <input type="hidden" name="form-name" value="subscribe" />
-  <p hidden><input name="bot-field" /></p>
-  <input type="email" name="email" placeholder="email@example.com" required
-    style="flex: 1; min-width: 200px; padding: 10px 14px; border: none; border-radius: 8px; font-size: 1em;" />
-  <button type="submit"
-    style="background: #fff; color: var(--primary); border: none; padding: 10px 20px; border-radius: 8px; font-weight: 600; cursor: pointer; font-size: 1em;">
-    Đăng ký
-  </button>
-</form>
-<p style="color: rgba(255,255,255,0.6); font-size: 0.85em; margin-top: 8px;">Không spam. Huỷ bất cứ lúc nào.</p>
+<div class="subscribe-box">
+  <div class="subscribe-text">
+    <strong>📬 Bài mới qua email</strong>
+    <span>Mỗi tuần 1 bài về ERP, BA, SCM. Không spam.</span>
+  </div>
+  <form name="subscribe" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="subscribe-form">
+    <input type="hidden" name="form-name" value="subscribe" />
+    <p hidden><input name="bot-field" /></p>
+    <input type="email" name="email" placeholder="email@example.com" required />
+    <button type="submit">Đăng ký</button>
+  </form>
 </div>
