@@ -1,6 +1,6 @@
 baseURL: "https://quandangba.netlify.app/"
 languageCode: "en-us"
-title: "SCM Insights by Đức Quân"
+title: "Quan BA's Notebook"
 theme: "PaperMod"
 
 params:
@@ -10,8 +10,8 @@ params:
   
   profileMode:
     enabled: true
-    title: "SCM Insights"
-    subtitle: "ERP · IFS Cloud · Supply Chain · Business Analysis"
+    title: "Quan BA's Notebook"
+    subtitle: "ERP · IFS Cloud · Business Analysis · Personal Notes"
     imageUrl: "https://pbs.twimg.com/profile_images/1723558740249714688/5-p9-Ray_normal.jpg"
 
   socialIcons:
