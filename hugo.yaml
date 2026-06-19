@@ -12,7 +12,7 @@ params:
     enabled: true
     title: "Quan BA's Notebook"
     subtitle: "ERP · IFS Cloud · Business Analysis · Personal Notes"
-    imageUrl: "https://pbs.twimg.com/profile_images/1723558740249714688/5-p9-Ray_normal.jpg"
+    imageUrl: "/images/avatar.jpg"
 
   socialIcons:
     - name: "x"
