@@ -1,0 +1,17 @@
+/* Header logo round */
+.logo.max-h-20 {
+    border-radius: 50% !important;
+}
+
+/* Shortcodes */
+.sc-compare th {
+    font-weight: 600;
+}
+.sc-cta {
+    border-radius: 12px;
+}
+
+/* Subscribe box */
+.subscribe-box {
+    margin: 2em 0;
+}
