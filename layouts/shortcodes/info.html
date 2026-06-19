@@ -1,0 +1,4 @@
+<div class="sc-box sc-box-{{ .Get "type" | default "info" }}">
+<div class="sc-box-label">{{ .Get "label" | default "💡" }}</div>
+<div class="sc-box-body">{{ .Inner | markdownify }}</div>
+</div>
