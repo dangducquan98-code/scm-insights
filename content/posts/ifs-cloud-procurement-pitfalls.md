@@ -4,7 +4,7 @@ featureimage: "images/posts/ifs-cloud-procurement-pitfalls.jpg"
 featureAlt: "IFS Cloud Procurement - 3 cạm bẫy cấu hình khiến team mua hàng làm việc tay"
 date: 2026-06-19T09:00:00+07:00
 draft: false
-tags: ["IFS Cloud", "Procurement", "ERP", "cấu hình"]
+tags: ["ifs-cloud", "procurement", "erp", "cấu hình"]
 description: "3 cạm bẫy cấu hình IFS Cloud Procurement: approval route một cỡ, bỏ qua lead time, không dùng Purchase Agreement. Khiến team mua hàng vẫn ngập trong Excel dù ERP đã go-live."
 ---
 

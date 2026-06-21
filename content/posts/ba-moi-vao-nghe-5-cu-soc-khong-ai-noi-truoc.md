@@ -1,10 +1,10 @@
 ---
-title: "BA MỚI VÀO NGHỀ: 5 CÚ SỐC KHÔNG AI NÓI TRƯỚC"
+title: "BA mới vào nghề: 5 cú sốc không ai nói trước"
 date: 2026-06-21T09:00:00+07:00
 draft: false
 featureimage: "images/posts/ba-moi-vao-nghe-5-cu-soc-khong-ai-noi-truoc.jpg"
 featureAlt: "5 cú sốc khi mới làm BA - minh họa trừu tượng"
-tags: ["BusinessAnalyst", "BAMoiVaoNghe", "KyNangMem"]
+tags: ["business-analyst", "ba-moi-vao-nghe", "ky-nang-mem"]
 description: "5 cú sốc văn hóa khi mới làm BA mà không trường lớp nào dạy: stakeholder không biết mình muốn gì, requirement thay đổi mỗi ngày, dev không tin BA, cảm giác vô dụng, và không có đáp án ở cuối sách."
 
 ---

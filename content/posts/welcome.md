@@ -4,7 +4,7 @@ featureimage: "images/posts/welcome.jpg"
 featureAlt: "Quân làm BA Blog - blog về ERP và Business Analysis"
 date: 2026-06-19T09:00:00+07:00
 draft: false
-tags: ["BA", "ERP", "IFS Cloud"]
+tags: ["ba", "erp", "ifs-cloud"]
 description: "Quân làm BA Blog — blog của Đức Quân, Business Analyst chuyên triển khai ERP, IFS Cloud, Supply Chain. Chia sẻ bài học thực tế từ nhà máy sản xuất."
 ---
 

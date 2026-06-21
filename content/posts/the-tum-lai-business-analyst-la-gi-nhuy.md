@@ -37,7 +37,7 @@ Nói lý thuyết thì mông lung, lấy cái ví dụ này cho đời thường
 
 Đang đi làm về… xe hết xăng. Lúc này cái "Business Objective" của anh em là gì ạ? Là "vác cái xác về nhà ăn cơm với vợ" đúng không?
 
-Thế là cái đầu "BA" trong mình bắt đầu nảy số các Solution:
+Thế là cái đầu "ba" trong mình bắt đầu nảy số các Solution:
 
 Lúc này, anh em phải cân nhắc các "Stakeholders" (Vợ đang chờ cơm, con đang khóc, hay thằng bạn đang rảnh…). Chọn phương án nào để các bên đều vui vẻ, hài lòng nhất… đấy chính là làm BA.
 
