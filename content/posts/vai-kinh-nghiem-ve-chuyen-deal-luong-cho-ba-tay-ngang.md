@@ -93,3 +93,9 @@ Xác định **3 con số riêng**:
 **Kết luận:** Deal lương cũng như một dự án BA – thu thập yêu cầu, phân tích dữ liệu, đưa ra giải pháp thắng-thắng. Sự tự tin đến từ **sự chuẩn bị**, không phải từ "chém gió". Cầm file Excel phân tích lương trong tay, cuộc nói chuyện sẽ khác hẳn.
 
 *Hashtags bài viết:* #BusinessAnalyst #ChuyenNganhBA #DealLuong #GocNhinThucChien
+
+---
+
+**📖 Xem thêm:**
+
+- Xem thêm: [Business Analyst là gì?](/posts/the-tum-lai-business-analyst-la-gi-nhuy/)

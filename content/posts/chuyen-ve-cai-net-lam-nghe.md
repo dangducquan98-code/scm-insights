@@ -83,3 +83,9 @@ Khi stakeholder tin tưởng, BA trở thành **điểm tựa vững chãi**, n�
 ---
 
 **Tags:** #BusinessAnalyst #ChuyenNgheBA #TamSu #QuanLamBA #ThaiDoLamViec
+
+---
+
+**📖 Xem thêm:**
+
+- Xem thêm: [Business Analyst là gì?](/posts/the-tum-lai-business-analyst-la-gi-nhuy/)

@@ -99,3 +99,9 @@ BA trong nhà máy là "làm dâu trăm họ", vừa phải hiểu chuyên môn 
   ✅ Đánh giá hiệu quả thực tế sau triển khai
 
 *Bài viết đăng kèm hashtag: #BusinessAnalyst #BABOK #ChuyenDoiSo #ERP #TuDuyLamNghe #DangDucQuan*
+
+---
+
+**📖 Xem thêm:**
+
+- Xem thêm: [Tại sao dự án ERP thất bại](/posts/tai-sao-du-an-erp-that-bai/)

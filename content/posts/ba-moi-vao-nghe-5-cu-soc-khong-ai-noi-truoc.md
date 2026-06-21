@@ -77,3 +77,9 @@ Giờ nghĩ lại, chính mấy cú sốc đó mới dạy mình làm nghề.
 Hỏi thật: bạn đang gặp cú sốc nào nhất? Hay có cú nào mình chưa liệt kê? Comment hoặc DM mình nhé.
 
 #DehaDigitalSolutions #BusinessAnalyst #BAMoiVaoNghe
+
+---
+
+**📖 Xem thêm:**
+
+- Xem thêm: [Business Analyst là gì?](/posts/the-tum-lai-business-analyst-la-gi-nhuy/)

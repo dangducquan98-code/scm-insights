@@ -53,3 +53,10 @@ Biến cái chưa tốt thành cái tốt. Biến cái tốt rồi thành cái t
 
 Anh em làm BA thấy mình nói có đúng không?
 
+---
+
+**📖 Xem thêm:**
+
+- Xem thêm: [BA mới vào nghề: 5 cú sốc không ai nói trước](/posts/ba-moi-vao-nghe-5-cu-soc-khong-ai-noi-truoc/)
+
+- Xem thêm: [Chuyện về "cái nết" làm nghề](/posts/chuyen-ve-cai-net-lam-nghe/)

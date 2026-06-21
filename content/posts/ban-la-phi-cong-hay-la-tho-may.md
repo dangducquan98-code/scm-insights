@@ -32,3 +32,8 @@ Chuyển đổi số trong sản xuất, nói cho vuông, là quá trình xây d
 
 Bay lên nào! ✈️
 
+---
+
+**📖 Xem thêm:**
+
+- Xem thêm: [BA trong nhà máy: 6 món võ](/posts/ba-trong-nha-may-6-mon-vo-phong-than-de-khong-bi-gay-du-an/)

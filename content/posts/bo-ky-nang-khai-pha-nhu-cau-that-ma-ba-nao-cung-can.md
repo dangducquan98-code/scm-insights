@@ -102,3 +102,10 @@ Hãy chuyển mình từ người hỏi *"Cần gì?"* thành người tư vấn
 
 ---
 
+---
+
+**📖 Xem thêm:**
+
+- Xem thêm: [3 nguyên tắc sống còn để lấy yêu cầu](/posts/3-nguyen-tac-song-con-de-lay-yeu-cau-hieu-qua/)
+
+- Xem thêm: [BA trong nhà máy: 6 món võ](/posts/ba-trong-nha-may-6-mon-vo-phong-than-de-khong-bi-gay-du-an/)
