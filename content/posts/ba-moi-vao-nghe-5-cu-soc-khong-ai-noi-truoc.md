@@ -21,7 +21,7 @@ Hồi mới ra trường, mình tưởng BA là nghề đẹp nhất thế gian:
 
 Sai be.
 
-Phần lớn stakeholder không biết họ muốn gì. Họ chỉ biết họ đau, không biết thuốc nào trị. Họ nói "em làm cái màn hình giống Excel cũ nhé" — nhưng Excel cũ họ cũng ghét, chỉ quen tay thôi.
+Phần lớn stakeholder không biết họ muốn gì. Họ chỉ biết họ đau, không biết thuốc nào trị. Họ nói "em làm cái màn hình giống Excel cũ nhé" — nhưng Excel cũ họ cũng ghét, (Mình đã viết kỹ hơn về chuyện này trong bài [3 nguyên tắc sống còn để lấy yêu cầu hiệu quả](/posts/3-nguyen-tac-song-con-de-lay-yeu-cau-hieu-qua/).)
 
 Rồi mình mất 3 tuần làm đúng như họ nói. Xong họ bảo: "không phải ý anh."
 

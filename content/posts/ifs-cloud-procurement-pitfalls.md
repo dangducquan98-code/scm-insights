@@ -8,7 +8,7 @@ tags: ["ifs-cloud", "procurement", "erp", "cấu hình"]
 description: "3 cạm bẫy cấu hình IFS Cloud Procurement: approval route một cỡ, bỏ qua lead time, không dùng Purchase Agreement. Khiến team mua hàng vẫn ngập trong Excel dù ERP đã go-live."
 ---
 
-Mình không nhớ nổi bao nhiêu lần bước vào site khách hàng, module IFS Cloud Procurement đã go-live rồi — mà team mua hàng vẫn đang ngập trong Excel và việc tay. Không phải do phần mềm. Gần như không bao giờ do phần mềm. Là do cách người ta set-up nó từ 6 tháng trước.
+Mình không nhớ nổi bao nhiêu lần bước vào site khách hàng, module IFS Cloud Procurement đã go-live rồi — mà team mua hàng vẫn đang ngập trong Excel và việc tay. Đây không phải lỗi đơn lẻ — nó nằm trong [5 lý do khiến dự án ERP thất bại](/posts/tai-sao-du-an-erp-that-bai/) mà mình từng thấy lặp đi lặp lại. Không phải do phần mềm. Gần như không bao giờ do phần mềm. Là do cách người ta set-up nó từ 6 tháng trước.
 
 Dưới đây là 3 cái bẫy mình thấy lặp đi lặp lại.
 

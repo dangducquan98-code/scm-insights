@@ -10,7 +10,7 @@ description: "5 lý do dự án ERP thất bại từ thực tế triển khai: 
 
 Mình từng ngồi trong một cuộc họp "rút kinh nghiệm" dự án ERP kéo dài 4 tiếng. Phòng họp kín, điều hoà 16 độ mà mặt ai cũng đỏ bừng. Dự án ngốn 2 năm, 15 tỷ — go-live xong thì team mua hàng vẫn dùng Excel để tracking đơn hàng "cho chắc".
 
-Không phải lần đầu mình thấy cảnh này. Dưới đây là 5 lý do mình thấy lặp đi lặp lại.
+Không phải lần đầu mình thấy cảnh này. Dưới đây là 5 lý do mình thấy lặp đi lặp lại. (Một ví dụ cụ thể: [3 cái bẫy cấu hình IFS Cloud Procurement](/posts/ifs-cloud-procurement-pitfalls/) cũng xuất phát từ những lỗi tương tự.)
 
 ![5 lý do ERP thất bại](/images/posts/erp-failure-infographic.jpg)
 
