@@ -1,20 +1,23 @@
 # Quân làm BA Blog
 
-> Blog chia sẻ kiến thức thực chiến về ERP, IFS Cloud và Business Analysis từ góc nhìn của một BA trong lĩnh vực sản xuất. Tiếng Việt.
+> Blog chia sẻ kiến thức thực chiến về ERP, IFS Cloud và Business Analysis từ góc nhìn của một BA trong lĩnh vực sản xuất. Tiếng Việt. ~2,000 tokens.
 
-## Bài viết
+## Bài viết (~8,000 tokens total)
 
-- [BA mới vào nghề: 5 cú sốc không ai nói trước](https://quanlamba.com/posts/ba-moi-vao-nghe-5-cu-soc-khong-ai-noi-truoc/): Những cú sốc văn hóa khi mới làm BA mà không trường lớp nào dạy.
-- [Tại sao dự án ERP thất bại — 5 lý do từ chiến hào](https://quanlamba.com/posts/tai-sao-du-an-erp-that-bai/): Phân tích 5 nguyên nhân gốc rễ khiến dự án ERP thất bại.
-- [3 cái bẫy cấu hình IFS Cloud Procurement](https://quanlamba.com/posts/ifs-cloud-procurement-pitfalls/): 3 lỗi cấu hình khiến team mua hàng vẫn ngập trong việc tay sau go-live.
-- [3 nguyên tắc sống còn để lấy yêu cầu hiệu quả](https://quanlamba.com/posts/3-nguyen-tac-song-con-de-lay-yeu-cau-hieu-qua/): Kinh nghiệm thực chiến từ dự án ERP/MES.
-- [Bộ kỹ năng khai phá "nhu cầu thật" mà BA nào cũng cần](https://quanlamba.com/posts/bo-ky-nang-khai-pha-nhu-cau-that-ma-ba-nao-cung-can/): Bài học đắt giá từ dự án ERP nhà máy cơ khí.
-- [BA trong nhà máy: 6 món võ phòng thân](https://quanlamba.com/posts/ba-trong-nha-may-6-mon-vo-phong-than-de-khong-bi-gay-du-an/): 6 vùng kiến thức BABOK Việt hóa cho BA nhà máy.
-- [Business Analyst là gì?](https://quanlamba.com/posts/the-tum-lai-business-analyst-la-gi-nhuy/): Góc nhìn thực tế từ người trong nghề.
-- [Kinh nghiệm deal lương cho BA tay ngang](https://quanlamba.com/posts/vai-kinh-nghiem-ve-chuyen-deal-luong-cho-ba-tay-ngang/): Tư duy đàm phán dành cho BA mới.
-- [Bạn là "phi công" hay "thợ máy"?](https://quanlamba.com/posts/ban-la-phi-cong-hay-la-tho-may/): Ẩn dụ về tư duy BA trong chuyển đổi số.
-- [Chuyện về "cái nết" làm nghề](https://quanlamba.com/posts/chuyen-ve-cai-net-lam-nghe/): Behavioral characteristics của BA.
+- [BA mới vào nghề: 5 cú sốc không ai nói trước](https://quanlamba.com/posts/ba-moi-vao-nghe-5-cu-soc-khong-ai-noi-truoc/): 5 cú sốc văn hóa khi mới làm BA. ~1,200 tokens.
+- [Tại sao dự án ERP thất bại — 5 lý do từ chiến hào](https://quanlamba.com/posts/tai-sao-du-an-erp-that-bai/): 5 nguyên nhân gốc rễ khiến dự án ERP thất bại. ~900 tokens.
+- [3 cái bẫy cấu hình IFS Cloud Procurement](https://quanlamba.com/posts/ifs-cloud-procurement-pitfalls/): 3 lỗi cấu hình khiến team mua hàng vẫn ngập việc tay sau go-live. ~700 tokens.
+- [3 nguyên tắc sống còn để lấy yêu cầu hiệu quả](https://quanlamba.com/posts/3-nguyen-tac-song-con-de-lay-yeu-cau-hieu-qua/): Kinh nghiệm thực chiến từ dự án ERP/MES. ~800 tokens.
+- [Bộ kỹ năng khai phá "nhu cầu thật" mà BA nào cũng cần](https://quanlamba.com/posts/bo-ky-nang-khai-pha-nhu-cau-that-ma-ba-nao-cung-can/): Bài học đắt giá từ dự án ERP nhà máy cơ khí. ~800 tokens.
+- [BA trong nhà máy: 6 món võ phòng thân](https://quanlamba.com/posts/ba-trong-nha-may-6-mon-vo-phong-than-de-khong-bi-gay-du-an/): 6 vùng kiến thức BABOK Việt hóa. ~900 tokens.
+- [Business Analyst là gì?](https://quanlamba.com/posts/the-tum-lai-business-analyst-la-gi-nhuy/): Góc nhìn thực tế từ người trong nghề. ~600 tokens.
+- [Kinh nghiệm deal lương cho BA tay ngang](https://quanlamba.com/posts/vai-kinh-nghiem-ve-chuyen-deal-luong-cho-ba-tay-ngang/): Tư duy đàm phán cho BA. ~700 tokens.
+- [Bạn là "phi công" hay "thợ máy"?](https://quanlamba.com/posts/ban-la-phi-cong-hay-la-tho-may/): Ẩn dụ về tư duy BA trong CĐS. ~500 tokens.
+- [Chuyện về "cái nết" làm nghề](https://quanlamba.com/posts/chuyen-ve-cai-net-lam-nghe/): Behavioral characteristics của BA. ~600 tokens.
+
+## Optional
+- [About](https://quanlamba.com/about/): Thông tin tác giả Đức Quân. ~200 tokens.
+- [Tags](https://quanlamba.com/tags/): Chủ đề bài viết. ~100 tokens.
 
 ## Tác giả
-
-Đức Quân (Quân Kiu) — Business Analyst, chuyên triển khai ERP/IFS Cloud trong lĩnh vực sản xuất tại Việt Nam.
+Đức Quân (Quân Kiu) — Business Analyst, chuyên triển khai ERP/IFS Cloud trong sản xuất tại Việt Nam. Liên hệ: X @quannkiu, LinkedIn /in/quandd.
