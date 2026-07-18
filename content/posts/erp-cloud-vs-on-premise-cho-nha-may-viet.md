@@ -4,7 +4,7 @@ date: 2026-07-19T03:00:00+07:00
 draft: false
 featureimage: "images/posts/erp-cloud-vs-on-premise-cho-nha-may-viet.jpg"
 featureAlt: "Hai máy chủ đối lập — đám mây và máy chủ vật lý"
-description: "ERP Cloud hay On-premise cho nhà máy Việt? Bài viết này không bênh bên nào, chỉ kể chuyện thật từ những dự án đã thấy để bạn tự chọn."
+description: "ERP Cloud hay On-premise? Bài này không bênh bên nào, chỉ kể chuyện thật từ những dự án đã triển khai để bạn tự chọn."
 tags: ["erp", "cloud", "chuyen-doi-so", "nha-may-viet"]
 ---
 
