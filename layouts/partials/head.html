@@ -71,7 +71,11 @@
 
   {{/* Social */}}
   {{ template "_internal/opengraph.html" . }}
-  {{ template "_internal/twitter_cards.html" . }}
+  <meta name="twitter:card" content="summary_large_image">
+  {{ if $.Params.featureimage }}
+    <meta name="twitter:title" content="{{ $.Title }}">
+    <meta name="twitter:description" content="{{ $.Params.description | default $.Summary | plainify }}">
+  {{ end }}
   {{/* Use featureimage param first, then default */}}
   {{ with $.Params.featureimage }}
     <meta name="twitter:image" content="{{ . | absURL }}">
