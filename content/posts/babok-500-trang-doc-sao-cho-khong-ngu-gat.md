@@ -1,11 +1,11 @@
 ---
 title: "BABOK 500 trang: Mình đọc thế nào để không ngủ gật"
 date: 2026-07-12T09:00:00+07:00
-draft: false
+draft: true
 featureimage: "images/posts/babok-500-trang-doc-sao-cho-khong-ngu-gat.jpg"
 featureAlt: "Sách BABOK mở giữa bàn làm việc với ghi chú đầy màu"
 description: "BABOK có 500 trang, 6 knowledge areas, 50+ techniques — đọc sao cho không ngủ gật? Kinh nghiệm thực tế từ một BA đang ôn CBAP với 3 cách tiếp cận hiệu quả."
-tags: ["business-analyst", "cbap", "babok", "chung-chi-ba"]
+tags: ["business-analyst", "cbap", "babok", "chung-chi"]
 ---
 
 Mình mua BABOK v3 được gần 6 tháng. Bìa còn mới. Gáy chưa bung. Có chỗ còn... thơm giấy.

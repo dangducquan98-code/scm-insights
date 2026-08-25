@@ -1,5 +1,5 @@
 ---
-title: "ERP KHÔNG CHẠY TRÊN PHẦN MỀM, MÀ CHẠY TRÊN DỮ LIỆU — BÀI HỌC TỪ AIRBUS"
+title: "ERP không chạy trên phần mềm, mà chạy trên dữ liệu — bài học từ Airbus"
 date: 2026-06-24T17:30:00+07:00
 draft: false
 featureimage: "images/posts/erp-khong-chay-tren-phan-mem-ma-chay-tren-du-lieu.jpg"

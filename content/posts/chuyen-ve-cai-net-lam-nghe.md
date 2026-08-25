@@ -1,9 +1,9 @@
 ---
-title: "CHUYỆN VỀ \"CÁI NẾT\" LÀM NGHỀ"
+title: "Chuyện về \"cái nết\" làm nghề"
 featureimage: "images/posts/chuyen-ve-cai-net-lam-nghe.jpg"
 featureAlt: "Chuyện về cái nết làm nghề - behavioral characteristics của BA"
 date: 2025-12-01T09:00:00+07:00
-tags: [BusinessAnalyst, ChuyenNgheBA, TamSu, QuanLamBA, ThaiDoLamViec]
+tags: [business-analyst, chuyen-nghe-ba, tam-su, quan-lam-ba, thai-do-lam-viec]
 description: "Chuyện về 'cái nết' làm nghề BA: behavioral characteristics quan trọng hơn hard skills. Góc nhìn trăn trở của một BA kỳ cựu về thái độ và đạo đức nghề nghiệp."
 ---
 

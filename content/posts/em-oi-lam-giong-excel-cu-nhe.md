@@ -1,5 +1,5 @@
 ---
-title: "\"EM ƠI, LÀM GIỐNG EXCEL CŨ NHÉ\" — CƠN ÁC MỘNG CỦA BA"
+title: "\"Em ơi, làm giống Excel cũ nhé\" — cơn ác mộng của BA"
 date: 2026-06-28T03:00:00+07:00
 draft: false
 featureimage: "images/posts/em-oi-lam-giong-excel-cu-nhe.jpg"

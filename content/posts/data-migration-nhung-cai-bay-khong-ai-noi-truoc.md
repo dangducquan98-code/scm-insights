@@ -1,5 +1,5 @@
 ---
-title: "DATA MIGRATION — NHỮNG CÁI BẪY KHÔNG AI NÓI TRƯỚC"
+title: "Data migration — những cái bẫy không ai nói trước"
 date: 2026-07-05T03:00:00+07:00
 draft: false
 featureimage: "images/posts/data-migration-nhung-cai-bay-khong-ai-noi-truoc.jpg"

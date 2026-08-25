@@ -1,9 +1,9 @@
 ---
-title: "BỘ KỸ NĂNG KHAI PHÁ \"NHU CẦU THẬT\" MÀ BA NÀO CŨNG CẦN!"
+title: "Bộ kỹ năng khai phá \"nhu cầu thật\" mà BA nào cũng cần!"
 featureimage: "images/posts/bo-ky-nang-khai-pha-nhu-cau-that-ma-ba-nao-cung-can.jpg"
 featureAlt: "Bộ kỹ năng khai phá nhu cầu thật - Business Analyst thực chiến"
 date: 2025-12-15T09:00:00+07:00
-tags: [BusinessAnalyst, ChuyenDoiSo, SanXuat, ERP, RequirementElicitation, QuanLamBA]
+tags: [business-analyst, chuyen-doi-so, san-xuat, erp, requirement-elicitation, quan-lam-ba]
 description: "Bộ kỹ năng khai phá 'nhu cầu thật' mà BA nào cũng cần. Bài học đắt giá từ dự án ERP nhà máy cơ khí — phần mềm xịn nhưng không ai dùng vì BA chỉ khai thác bề nổi."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "IFS ĐANG XÂY 'LỚP VẬN HÀNH' — AI TRONG SẢN XUẤT SẼ ĐƯỢC ĐO BẰNG EXECUTION, KHÔNG PHẢI BẢN DEMO"
+title: "IFS đang xây 'lớp vận hành' — AI trong sản xuất sẽ được đo bằng execution, không phải bản demo"
 date: 2026-07-01T16:30:00+07:00
 draft: false
 featureimage: "images/posts/ifs-dang-xay-lop-van-hanh-ai-san-xuat.jpg"

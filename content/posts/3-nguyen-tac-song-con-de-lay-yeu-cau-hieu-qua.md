@@ -1,9 +1,9 @@
 ---
-title: "3 NGUYÊN TẮC \"SỐNG CÒN\" ĐỂ LẤY YÊU CẦU HIỆU QUẢ"
+title: "3 nguyên tắc \"sống còn\" để lấy yêu cầu hiệu quả"
 featureimage: "images/posts/3-nguyen-tac-song-con-de-lay-yeu-cau-hieu-qua.jpg"
 featureAlt: "3 nguyên tắc sống còn để lấy yêu cầu hiệu quả trong dự án ERP"
 date: 2025-12-15T09:00:00+07:00
-tags: [BusinessAnalyst, KinhNghiemThucChien, LayYeuCau, RequirementElicitation, ChuyenDoiSo]
+tags: [business-analyst, kinh-nghiem-thuc-chien, lay-yeu-cau, requirement-elicitation, chuyen-doi-so]
 description: "3 nguyên tắc sống còn để lấy yêu cầu hiệu quả: đừng để bẫy 'kinh nghiệm' và 'chủ quan' biến requirement thành cơn ác mộng. Kinh nghiệm thực chiến từ dự án ERP/MES."
 ---
 

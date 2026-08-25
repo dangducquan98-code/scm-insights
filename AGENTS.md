@@ -56,6 +56,12 @@ curl -s "https://quanlamba.com/?v=$(date +%s)" | grep -c 'expected-text'
 - X tweet: 9h daily (d7b15bf50ba7)
 - X curate: 11h daily (1246ca7462dd)
 
+### Content strategy (`CONTENT_STRATEGY.md`)
+- 4 trụ: ERP | BA thực chiến | Chứng chỉ & lộ trình | Góc cá nhân
+- Mỗi chủ đề có hậu tố `[ĐÃ VIẾT]` / `[CHƯA VIẾT]` — cron chọn từ CHƯA VIẾT
+- Mục `## Lịch 12 tuần tới` = lịch ưu tiên xoay vòng 4 trụ
+- Khi đăng bài mới: cập nhật hậu tố chủ đề tương ứng → `[ĐÃ VIẾT]`
+
 ### Related skills
 - quankiu-voice: writing style
 - blog-enhance: post pipeline

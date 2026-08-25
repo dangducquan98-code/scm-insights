@@ -2,6 +2,7 @@
 title: "Babok đọc sao cho không ngủ gật"
 date: 2026-08-09T09:00:00+07:00
 draft: false
+aliases: ["/posts/babok-500-trang-doc-sao-cho-khong-ngu-gat/"]
 featureimage: "images/posts/babok-doc-sao-cho-khong-ngu-gat.jpg"
 featureAlt: "Quyển sách BABOK mở trên bàn làm việc với tách cà phê và bút highlight"
 description: "500 trang BABOK nghe là muốn ngủ? Mình từng như bạn. Sau 3 tháng vừa đọc vừa làm, đây là 5 cách giúp mình sống sót và thực sự hiểu BABOK, không phải học thuộc lòng."
@@ -49,6 +50,22 @@ Chương 9 của BABOK (Underlying Competencies) là chương bị bỏ qua nhi�
 Nó nói về analytical thinking, problem solving, communication skills, business knowledge. Mấy cái này không ai dạy BA hết. Trường không dạy. Công ty không train. Nhưng nó quyết định 80% việc mình có làm tốt hay không.
 
 Mình đọc chương này chậm nhất. Mỗi phần mình dừng lại tự hỏi: "Mình đang yếu cái nào?" Communication skills, ok. Analytical thinking, điểm mạnh. Business knowledge về manufacturing, còn phải học thêm. Xong rồi lên kế hoạch cải thiện từng cái một.
+
+## 📎 6. Mỗi technique là một câu chuyện, không phải định nghĩa
+
+50 techniques nghe như núi. Nhưng nếu bạn đã làm BA được vài tháng, khả năng cao là bạn đã dùng 15 cái rồi — chỉ là không biết tên chính thức trong BABOK thôi.
+
+Bạn hỏi "anh muốn gì ở hệ thống mới" — đó là Interview. Bạn vẽ quy trình lên bảng rồi nói "em hiểu thế này có đúng ko ạ" — đó là Process Modeling kết hợp Confirmation. Bạn lôi tờ Excel của kế toán ra hỏi từng cột — Document Analysis.
+
+Mình gắn mỗi technique với một kỷ niệm từ dự án thật. Nhờ vậy nhớ luôn input, output, cả mấy cái guidelines khô khan. Có technique mình chưa từng dùng thì đánh dấu lại, đợi đến lúc gặp tình huống hợp lý — chứ không cố nhồi.
+
+## ⏱️ 7. Mỗi tuần 30 phút tự vấn
+
+Cuối tuần mình dành nửa tiếng: mở một knowledge area bất kỳ, đọc 15 phút, rồi tự hỏi "tuần này mình đã dùng cái gì trong đây chưa?".
+
+Hồi đầu toàn trả lời "chưa" — vì thực tế BA ở nhiều công ty Việt Nam đâu có tha hồ làm Strategy Analysis hay Business Architecture. Nhưng chỉ việc suy nghĩ về nó thôi, não đã bắt đầu ghi nhận có khái niệm đó tồn tại. Rồi một ngày gặp tình huống thật, tự dưng nhớ ra "à, cái này mình đọc trong BABOK rồi" — khoảnh khắc đấy đáng giá hơn cả tuần nhồi thuộc.
+
+*(Hai mẹo 6–7 mình từng viết riêng trong [phiên bản trước về cách đọc BABOK](/posts/babok-500-trang-doc-sao-cho-khong-ngu-gat/) — giờ gộp vào đây cho đủ.)*
 
 ## Nhưng...
 
