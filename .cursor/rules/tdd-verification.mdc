@@ -1,0 +1,23 @@
+---
+description: TDD + Verification-before-completion — mục tiêu ít bug
+globs: ["**/*"]
+alwaysApply: false
+---
+# Test-Driven Development & Verification
+
+## TDD Cycle (RED → GREEN → REFACTOR)
+1. **RED**: Viết test thất bại trước khi viết code — test mô tả hành vi mong muốn.
+2. **GREEN**: Viết code tối thiểu để test pass. Không viết code thừa (YAGNI).
+3. **REFACTOR**: Dọn code, giữ test xanh. Không đổi hành vi.
+
+## Rules
+- Không báo "xong" khi test chưa chạy — chạy test thật, đọc kết quả thật.
+- Code viết trước test = không hợp lệ, phải viết lại theo đúng thứ tự.
+- Mọi bug fix phải kèm test tái hiện bug (regression test) — nếu không có test framework, thêm assertion vào script verify.
+- Edge cases: test cả happy path lẫn error path (input rỗng, null, không tìm thấy, timeout...).
+
+## Verification Before Completion
+- **Build phải pass** — chạy lệnh build thật, không suy đoán.
+- **Test phải pass** — chạy toàn bộ test suite, không chỉ test mình mới viết.
+- **Không bịa kết quả** — nếu không chạy được, báo lỗi thật và đề xuất cách khác.
+- Với thay đổi web/API: verify bằng curl hoặc browser với URL thật, đọc response thật.

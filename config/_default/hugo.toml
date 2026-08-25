@@ -6,7 +6,7 @@ defaultContentLanguage = "vi"
   id = "G-9254REWFFX"
 
 enableRobotsTXT = true
-summaryLength = 0
+summaryLength = 70
 buildFuture = true
 
 [pagination]

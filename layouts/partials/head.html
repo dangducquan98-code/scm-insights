@@ -5,7 +5,7 @@
   {{ end }}
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <meta name="theme-color">
+  <meta name="theme-color" content="#1e293b">
 
   {{/* Title */}}
   {{ if .IsHome }}
@@ -69,14 +69,11 @@
     {{ end }}
   {{ end }}
 
-  {{/* Social */}}
+  {{/* Social: opengraph for og:*; featureimage/defaultSocialImage need explicit image tags */}}
   {{ template "_internal/opengraph.html" . }}
   <meta name="twitter:card" content="summary_large_image">
-  {{ if $.Params.featureimage }}
-    <meta name="twitter:title" content="{{ $.Title }}">
-    <meta name="twitter:description" content="{{ $.Params.description | default $.Summary | plainify }}">
-  {{ end }}
-  {{/* Use featureimage param first, then default */}}
+  <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title | emojify }}{{ else }}{{ .Title | plainify | emojify }}{{ end }}">
+  <meta name="twitter:description" content="{{ with $.Params.description }}{{ . | plainify }}{{ else }}{{ with $.Summary }}{{ . | plainify }}{{ else }}{{ $.Site.Params.description | plainify }}{{ end }}{{ end }}">
   {{ with $.Params.featureimage }}
     <meta name="twitter:image" content="{{ . | absURL }}">
     <meta property="og:image" content="{{ . | absURL }}">
@@ -155,7 +152,7 @@
   {{ end }}
   {{ if not .Site.Params.disableImageZoom | default true }}
     {{ $zoomJS := resources.Get "lib/zoom/zoom.min.umd.js" | resources.Fingerprint $alg }}
-    <script src="{{ $zoomJS.RelPermalink }}" integrity="{{ $zoomJS.Data.Integrity }}"></script>
+    <script defer src="{{ $zoomJS.RelPermalink }}" integrity="{{ $zoomJS.Data.Integrity }}"></script>
   {{ end }}
 
   {{/* JS deferred */}}
@@ -174,7 +171,9 @@
   {{ if .Site.Params.rtl | default false }}
     {{ $jsResources = $jsResources | append (resources.Get "js/rtl.js") }}
   {{ end }}
-  {{ $jsResources = $jsResources | append (resources.Get "js/katex-render.js") }}
+  {{ if .Page.HasShortcode "katex" }}
+    {{ $jsResources = $jsResources | append (resources.Get "js/katex-render.js") }}
+  {{ end }}
   {{ $jsResources = $jsResources | append (resources.Get "js/print-support.js") }}
   {{ $jsResources = $jsResources | append (resources.Get "js/email.js") }}
   {{ if $jsResources }}

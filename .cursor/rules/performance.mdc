@@ -1,0 +1,24 @@
+---
+description: Performance guidelines — Web Vitals, lazy loading, hiệu quả
+globs: ["**/*"]
+alwaysApply: false
+---
+# Performance Guidelines
+
+## Web (Web Vitals: LCP, CLS, INP)
+- Ưu tiên server components / SSR thay vì client-side rendering khi có thể.
+- Hạn chế `use client` — chỉ dùng khi thực sự cần Web API trong component nhỏ.
+- Lazy load: `next/dynamic` (hoặc tương đương) cho component không critical.
+- Ảnh: dùng format hiện đại (WebP/AVIF), chỉ định kích thước, lazy loading — tránh CLS.
+- Fonts: self-host + `display: swap`, preload font critical.
+
+## API / Backend
+- Tránh N+1 queries — batch/fetch dữ liệu theo tập.
+- Pagination cho danh sách lớn — không load toàn bộ.
+- Cache kết quả tính toán/phân tích nếu chi phí cao và ít thay đổi.
+- Index database cho cột thường query.
+
+## General
+- Không tối ưu sớm (YAGNI) — tối ưu khi có số đo chứng minh bottleneck.
+- Đo trước khi tối ưu: dùng profiler/Lighthouse, không đoán.
+- Bundle size: tránh import cả thư viện khi chỉ cần 1 hàm — dùng tree-shaking friendly imports.

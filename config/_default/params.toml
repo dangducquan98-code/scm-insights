@@ -5,10 +5,11 @@ autoSwitchAppearance = true
 logo = "images/avatar.jpg"
 disableTextInHeader = false
 description = "Blog chia sẻ kiến thức thực chiến về ERP, IFS Cloud và Business Analysis từ góc nhìn của một BA trong lĩnh vực sản xuất."
-defaultSocialImage = "images/avatar.jpg"
+defaultSocialImage = "images/posts/welcome.jpg"
 
 enableSearch = true
 enableCodeCopy = true
+enableA11y = true
 
 [author]
   name = "Đức Quân"
@@ -33,7 +34,7 @@ enableCodeCopy = true
 
 [homepage]
   layout = "custom"
-  homepageImage = "/img/background.svg"
+  homepageImage = "img/background.svg"
   showRecent = true
   showRecentItems = 5
   showMoreLink = true

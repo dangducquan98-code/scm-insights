@@ -1,15 +1,3 @@
+locale = "vi"
 title = "Quân làm BA Blog — ERP, IFS Cloud & Business Analysis"
 description = "Blog chia sẻ kiến thức thực chiến về ERP, IFS Cloud và Business Analysis từ góc nhìn của một BA trong lĩnh vực sản xuất. Không lý thuyết suông."
-
-[author]
-  name = "Đức Quân"
-  image = "images/avatar.jpg"
-  headline = "ERP · IFS Cloud · Business Analysis"
-  bio = "Chuyện nghề BA trong lĩnh vực sản xuất. Viết cho mình, và cho cả những ai đang muốn dấn thân vào con đường này. Từng triển khai ERP cho nhà máy cơ khí, thực phẩm, dệt may — mỗi dự án một bài học, mỗi lần go-live một phen thót tim."
-  links = [
-    { x-twitter = "https://x.com/quannkiu" },
-    { linkedin = "https://www.linkedin.com/in/quandd/" },
-    { facebook = "https://www.facebook.com/kiu98/" },
-  ]
-
-logo = "images/avatar.jpg"
