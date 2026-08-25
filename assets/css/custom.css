@@ -102,15 +102,43 @@
 }
 .subscribe-text strong { font-size: 1.05em; }
 .subscribe-text span { color: var(--secondary); font-size: 0.9em; }
+.subscribe-form {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex: 1;
+    min-width: 220px;
+    max-width: 420px;
+}
+.subscribe-input {
+    flex: 1;
+    min-width: 0;
+    padding: 10px 14px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--theme);
+    color: inherit;
+    font-size: 0.95em;
+    outline: none;
+    transition: border-color 0.2s;
+}
+.subscribe-input::placeholder {
+    color: var(--secondary);
+    opacity: 0.7;
+}
+.subscribe-input:focus {
+    border-color: var(--primary);
+}
 .subscribe-btn {
     padding: 10px 20px;
+    border: none;
     border-radius: 8px;
     background: var(--primary);
     color: var(--theme);
     font-weight: 600;
-    text-decoration: none;
     font-size: 0.95em;
     white-space: nowrap;
+    cursor: pointer;
     transition: opacity 0.2s;
 }
 .subscribe-btn:hover { opacity: 0.85; }
@@ -121,4 +149,15 @@
         overflow-x: auto;
     }
     .sc-box { flex-direction: column; }
+    .subscribe-box {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    .subscribe-form {
+        max-width: none;
+        width: 100%;
+    }
+    .subscribe-btn {
+        flex-shrink: 0;
+    }
 }

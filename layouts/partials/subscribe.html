@@ -3,7 +3,21 @@
     <strong>📬 Bài mới qua email</strong>
     <span>Mỗi tuần 1 bài về ERP, BA, SCM. Không spam.</span>
   </div>
-  <a href="https://buttondown.com/uc_quan" target="_blank" class="subscribe-btn">
-    Đăng ký trên Buttondown →
-  </a>
+  <form
+    action="https://buttondown.com/api/emails/embed-subscribe/uc_quan"
+    method="post"
+    target="popupwindow"
+    onsubmit="window.open('https://buttondown.com/uc_quan', 'popupwindow')"
+    class="subscribe-form"
+  >
+    <input
+      type="email"
+      name="email"
+      placeholder="Email của bạn..."
+      required
+      class="subscribe-input"
+    />
+    <input type="hidden" name="embed" value="1" />
+    <button type="submit" class="subscribe-btn">Đăng ký</button>
+  </form>
 </div>
