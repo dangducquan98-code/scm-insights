@@ -24,6 +24,12 @@ description: "meta description 140-160 chars"
 tags: [lowercase, gach-ngang, khong-dau]
 ```
 
+### Blowfish params (verified in themes/blowfish)
+- Related: `[article] showRelatedContent`, `relatedContentLimit` (related.html)
+- BreadcrumbList schema: top-level `enableStructuredBreadcrumbs` (schema.html); UI crumbs = `[article|list].showBreadcrumbs`
+- Meta description: `[seo] metaDescriptionOrder` — values: `summary` | `description` | `site` (head.html)
+- Subscribe: `layouts/partials/subscribe.html` wired in `layouts/_default/single.html` + `layouts/partials/home/custom.html`
+
 ### Common pitfalls
 - Blowfish CSS goes in `assets/css/custom.css` (NOT `assets/css/extended/`)
 - TOC needs `## headings` (NOT bold markers)

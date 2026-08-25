@@ -10,6 +10,10 @@ defaultSocialImage = "images/posts/welcome.jpg"
 enableSearch = true
 enableCodeCopy = true
 enableA11y = true
+enableStructuredBreadcrumbs = true
+
+[seo]
+  metaDescriptionOrder = ["description", "summary", "site"]
 
 [author]
   name = "Đức Quân"
@@ -49,6 +53,8 @@ enableA11y = true
   showBreadcrumbs = true
   showReadingTime = true
   showTableOfContents = true
+  showRelatedContent = true
+  relatedContentLimit = 3
   showTaxonomies = true
   showWordCount = false
   showHero = true
