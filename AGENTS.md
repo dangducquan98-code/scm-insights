@@ -57,9 +57,11 @@ curl -s "https://quanlamba.com/?v=$(date +%s)" | grep -c 'expected-text'
 - X curate: 11h daily (1246ca7462dd)
 
 ### Content strategy (`CONTENT_STRATEGY.md`)
-- 4 trụ: ERP | BA thực chiến | Chứng chỉ & lộ trình | Góc cá nhân
+- Đối tượng ưu tiên: sinh viên, BA intern/fresher, người chuyển ngành
+- 4 trụ, xoay vòng **có trọng số** (không đều 25%): ERP ≈ 1/6; BA thực chiến + người mới ≈ 1/3; chứng chỉ & lộ trình ≈ 1/4; góc cá nhân ≈ 1/4
+- Trụ BA gồm nhánh thực chiến + nhánh skill/tool/interview/portfolio cho người mới
 - Mỗi chủ đề có hậu tố `[ĐÃ VIẾT]` / `[CHƯA VIẾT]` — cron chọn từ CHƯA VIẾT
-- Mục `## Lịch 12 tuần tới` = lịch ưu tiên xoay vòng 4 trụ
+- Mục `## Lịch 12 tuần tới` = lịch ưu tiên (ERP 2 bài / 12 tuần)
 - Khi đăng bài mới: cập nhật hậu tố chủ đề tương ứng → `[ĐÃ VIẾT]`
 
 ### Related skills
