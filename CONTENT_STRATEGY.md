@@ -55,7 +55,7 @@ Chủ đề:
 
 #### Sinh viên, intern, fresher: skill, tool, interview, portfolio
 Chủ đề (người mới hay hỏi trên diễn đàn, khóa học, JD Việt Nam):
-- User story + acceptance criteria — INVEST và Given-When-Then cho người mới [CHƯA VIẾT]
+- User story + acceptance criteria — INVEST và Given-When-Then cho người mới [ĐÃ VIẾT]
 - BRD, SRS, FRD — fresher hay nhầm cái nào viết khi nào [CHƯA VIẾT]
 - Use Case vs User Story — phỏng vấn hỏi hoài, trả lời sao [CHƯA VIẾT]
 - Functional vs non-functional requirement — "hệ thống phải nhanh" không phải requirement [CHƯA VIẾT]
