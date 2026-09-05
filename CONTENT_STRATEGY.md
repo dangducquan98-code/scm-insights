@@ -85,7 +85,7 @@ Chủ đề:
 - CBAP là gì và có đáng thi không — review thật [ĐÃ VIẾT]
 - BABOK — đọc sao cho không ngủ gật [ĐÃ VIẾT]
 - PSM I & II — kinh nghiệm thi và giá trị thực tế [CHƯA VIẾT]
-- Lộ trình từ fresher BA lên senior — mất bao lâu, cần gì [CHƯA VIẾT]
+- Lộ trình từ fresher BA lên senior — mất bao lâu, cần gì [ĐÃ VIẾT]
 - Chứng chỉ BA: CBAP vs CCBA vs ECBA — chọn cái nào [CHƯA VIẾT]
 - Deal lương cho BA tay ngang — chiến thuật thực chiến [ĐÃ VIẾT]
 - Học gì để làm BA giỏi hơn — không phải cứ học thêm chứng chỉ [CHƯA VIẾT]
