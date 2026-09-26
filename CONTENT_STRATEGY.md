@@ -21,7 +21,7 @@ ERP nói chung, không gắn riêng IFS. Tập trung vào thực tế triển kh
 Chủ đề:
 - ERP là gì với dân trong nghề — không phải cái định nghĩa Google [CHƯA VIẾT]
 - Data migration — những cái bẫy không ai nói trước [ĐÃ VIẾT]
-- Go-live: chuẩn bị gì, sai gì, sửa gì [CHƯA VIẾT]
+- Go-live: chuẩn bị gì, sai gì, sửa gì [ĐÃ VIẾT]
 - Customization vs Configuration — trade-off thực tế [CHƯA VIẾT]
 - Tại sao dự án ERP thất bại — 5 lý do từ chiến hào [ĐÃ VIẾT]
 - User training: làm sao để công nhân không ghét phần mềm mới [CHƯA VIẾT]
