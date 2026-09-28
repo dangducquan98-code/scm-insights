@@ -16,6 +16,7 @@ Business Analyst với kinh nghiệm triển khai **IFS Cloud** trong các mản
 - Requirements engineering theo BABOK
 
 **Chứng chỉ:**
+- Certified Business Analysis Professional™ (CBAP®) — IIBA
 - IFS Certified Practitioner — Procurement (IFS Cloud)
 - IFS Certified Practitioner — Sustainability (IFS Cloud)
 - Professional Scrum Master (PSM I & II)
