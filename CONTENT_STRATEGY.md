@@ -63,7 +63,7 @@ Chủ đề (người mới hay hỏi trên diễn đàn, khóa học, JD Việt
 - UML cho BA mới — Use Case, Activity, Sequence cần đến đâu [CHƯA VIẾT]
 - MoSCoW — khi stakeholder bảo tất cả đều Must [CHƯA VIẾT]
 - RACI — ai làm, ai chịu, ai chỉ đi họp [CHƯA VIẾT]
-- SQL cho BA — SELECT, JOIN, GROUP BY là đủ sống [CHƯA VIẾT]
+- SQL cho BA — SELECT, JOIN, GROUP BY là đủ sống [ĐÃ VIẾT]
 - API và JSON — BA cần hiểu gì để không bị dev bắt bài [CHƯA VIẾT]
 - Jira và Confluence — tool kiếm cơm, không phải chứng chỉ [CHƯA VIẾT]
 - Wireframe/Figma — BA có phải designer không [CHƯA VIẾT]
