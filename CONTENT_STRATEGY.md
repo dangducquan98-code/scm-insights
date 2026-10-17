@@ -73,7 +73,7 @@ Chủ đề (người mới hay hỏi trên diễn đàn, khóa học, JD Việt
 - SDLC Waterfall vs Agile — fresher cần biết gì để không lạc [CHƯA VIẾT]
 - Phỏng vấn BA fresher — câu hỏi thật, trả lời theo STAR [CHƯA VIẾT]
 - Case study trong phỏng vấn BA — nghĩ to, đừng đoán khung [CHƯA VIẾT]
-- Portfolio BA khi chưa có dự án khách — case simulation [CHƯA VIẾT]
+- Portfolio BA khi chưa có dự án khách — case simulation [ĐÃ VIẾT]
 - CV BA fresher — đọc JD, viết 1 trang, đừng nhồi keyword [CHƯA VIẾT]
 - Intern BA — làm gì để không chỉ pha trà [CHƯA VIẾT]
 - Sinh viên kinh tế sang IT BA — domain knowledge bù kỹ thuật thế nào [CHƯA VIẾT]
